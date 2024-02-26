@@ -6,3 +6,6 @@ Usando a linguagem de marcação para concluir algumas atividades, como:
 - estruturar o conteúdo por TAGs
 - usar o ancora para ir para outra página html
 - uso de tags h1 - h6, p, ul e li para listas, header para o cabeçalho do body, section, main e footer.
+
+## desafio 2
+Criar um formulário simples com nome, email, telefone e senha.
