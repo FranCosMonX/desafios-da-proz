@@ -1,4 +1,23 @@
+body {
+    background-color: gray;
+    font-size: 1.5em;
+}
+
+main {
+    max-width: 50vw;
+}
+
 form ul {
     list-style: none;
     padding: 0;
+}
+
+form li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 400px;
 }
