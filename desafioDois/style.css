@@ -3,6 +3,11 @@ body {
     font-size: 1.5em;
 }
 
+header div,
+header p {
+    color: red;
+}
+
 main {
     max-width: 50vw;
 }
