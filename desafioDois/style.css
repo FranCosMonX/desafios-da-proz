@@ -43,3 +43,14 @@ button {
     padding: 10px;
     border: none;
 }
+
+
+.caixa {
+    border-style: groove;
+    border-color: aliceblue;
+    padding: 10px;
+}
+
+#ultima-caixa {
+    border-color: blueviolet;
+}
