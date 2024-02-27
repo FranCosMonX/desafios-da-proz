@@ -10,6 +10,11 @@ header {
     padding-left: 20px;
 }
 
+header aside {
+    display: flex;
+    justify-content: space-around;
+}
+
 header div,
 header p {
     color: red;
