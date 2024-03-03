@@ -25,6 +25,9 @@ A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pont
 2. A página precisa ter imagens; 
 3. Use a tag de semântica textual inline.
 
+*fontes:*
+- [www.viajali.com.br - imagens e conteúdos](https://www.viajali.com.br/marco-zero-recife/)
+
 ## desafio 2
 Introdução ao CSS:
 - Criar um formulário simples com nome, email, telefone e senha.
