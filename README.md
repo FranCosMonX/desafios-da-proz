@@ -7,9 +7,9 @@ atividades da proz usando algumas linguagens
 **Limitações:** Construa apenas o html.
 
 *Fontes:*
-    - (Site sobre pontos turisticos na europa)[https://turismo.eurodicas.com.br/pontos-turisticos-na-europa/]
-    - (Imagem do mural da página inicial)[https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Faviao-ceu&psig=AOvVaw3q4vXQRBYjPeOD6RuSu16I&ust=1709565411543000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj5lcqx2IQDFQAAAAAdAAAAABAE]
-    - (mapa da Europa)[https://mundoeducacao.uol.com.br/geografia/o-continente-europeu.htm]
+    - [Site sobre pontos turisticos na europa](https://turismo.eurodicas.com.br/pontos-turisticos-na-europa/)
+    - [Imagem do mural da página inicial](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Faviao-ceu&psig=AOvVaw3q4vXQRBYjPeOD6RuSu16I&ust=1709565411543000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj5lcqx2IQDFQAAAAAdAAAAABAE)
+    - [mapa da Europa](https://mundoeducacao.uol.com.br/geografia/o-continente-europeu.htm)
 
 
 ## desafio 1
