@@ -35,7 +35,7 @@ Introdução ao CSS:
 
 Sobre o CSS:
 - O id tem maior prioridade que class;
-- O código mais ao final do arquivo tem maior prioridade que os primeiros. Por exemplo, a cor seria "aqua" ao usar este código a seguir (se trocar a posição você perceberá que quanto o código mais abaixo é que irá ser mantido, seguindo o mesmo sentido de linguagens de programação - o ultimo valo instanciado é quem permanecerá):
+- O código mais ao final do arquivo tem maior prioridade que os primeiros. Por exemplo, a cor seria "aqua" ao usar este código a seguir (se trocar a posição você perceberá que quanto o código mais abaixo é que irá ser mantido, seguindo o mesmo sentido de linguagens de programação - o ultimo valor instanciado é quem permanecerá, mas isto pode não funcionar quando está configurando o display de um grupo de elementos.):
 ```CSS
 #ultima-caixa {
     border-color: blueviolet;
