@@ -7,9 +7,9 @@ atividades da proz usando algumas linguagens
 **Limitações:** Construa apenas o html.
 
 *Fontes:*
-    - [Site sobre pontos turisticos na europa](https://turismo.eurodicas.com.br/pontos-turisticos-na-europa/)
-    - [Imagem do mural da página inicial](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Faviao-ceu&psig=AOvVaw3q4vXQRBYjPeOD6RuSu16I&ust=1709565411543000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj5lcqx2IQDFQAAAAAdAAAAABAE)
-    - [mapa da Europa](https://mundoeducacao.uol.com.br/geografia/o-continente-europeu.htm)
+- [Site sobre pontos turisticos na europa](https://turismo.eurodicas.com.br/pontos-turisticos-na-europa/)
+- [Imagem do mural da página inicial](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Faviao-ceu&psig=AOvVaw3q4vXQRBYjPeOD6RuSu16I&ust=1709565411543000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj5lcqx2IQDFQAAAAAdAAAAABAE)
+- [mapa da Europa](https://mundoeducacao.uol.com.br/geografia/o-continente-europeu.htm)
 
 
 ## desafio 1
@@ -17,6 +17,13 @@ Usando a linguagem de marcação para concluir algumas atividades, como:
 - estruturar o conteúdo por TAGs
 - usar o ancora para ir para outra página html
 - uso de tags h1 - h6, p, ul e li para listas, header para o cabeçalho do body, section, main e footer.
+
+## atividade 2
+A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pontos turísticos e um deles é o Marco Zero. Sabendo disso, crie uma página HTML, falando sobre esse ponto turístico de acordo com os seguintes pré-requisitos: 
+
+1. A página precisa ter cabeçalho, conteúdo e rodapé;
+2. A página precisa ter imagens; 
+3. Use a tag de semântica textual inline.
 
 ## desafio 2
 Introdução ao CSS:
