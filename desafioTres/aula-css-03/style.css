@@ -16,7 +16,9 @@ main {
   color: white;
   display: flex;
   flex-direction: column;
-  padding: 25px;
+  padding: 26vw;
+  padding-top: 3em;
+  padding-bottom: 0em;
 }
 
 nav {
@@ -40,13 +42,7 @@ nav ul li {
 
 main section {
   display: flex;
-  justify-content: center;
   gap: 2em;
-}
-
-main h1,
-main h2 {
-  margin-left: 26vw;
 }
 
 main h1 {
