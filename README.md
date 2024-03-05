@@ -46,3 +46,8 @@ Sobre o CSS:
 }
 ```
 - Para estilizar uma tag usando um ID como referência, precisará colocar o "#" na frente. Se for referenciar um class terá que usar um ".".
+
+## desafio 3
+
+Fazer o html ficar semelhante ao da imagem seguindo as limitações propostas pelo tutor.
+![Objetivo](./images/imagem.webp)
