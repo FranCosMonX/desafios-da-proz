@@ -1,0 +1,147 @@
+main {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1em;
+}
+
+section {
+  max-width: 200px;
+}
+
+.pai {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+
+  display: flex;
+}
+
+.filho {
+  width: 30px;
+  height: 30px;
+  border: 1px solid blue;
+}
+
+#verde {
+  background-color: green;
+}
+
+#amarelo {
+  background-color: rgb(247, 247, 9);
+}
+
+#vermelho {
+  background-color: red;
+}
+
+#praticaUm .pai {
+  justify-content: flex-end;
+}
+
+#praticaDois .pai {
+  justify-content: center;
+}
+
+#praticaTres .pai {
+  justify-content: space-around;
+}
+
+#praticaQuatro .pai {
+  justify-content: space-between;
+}
+
+#praticaCinco .pai {
+  align-items: flex-end;
+}
+
+#praticaSeis .pai {
+  align-items: center;
+  justify-content: center;
+}
+
+#praticaSete .pai {
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+#praticaOito .pai {
+  flex-direction: row-reverse;
+}
+
+#praticaNove .pai {
+  flex-direction: column;
+}
+
+#praticaDez .pai {
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+#praticaOnze .pai {
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+#praticaDoze .pai {
+  flex-direction: column-reverse;
+  justify-content: space-between;
+}
+
+#praticaTreze .pai {
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+#praticaQuatorze #amarelo {
+  order: 1;
+}
+
+#praticaQuinze #verde {
+  order: -4;
+}
+
+#praticaDezeseis #amarelo {
+  align-self: flex-end;
+}
+
+#praticaDezesete #amarelo {
+  align-self: flex-end;
+  order: 1;
+}
+
+#praticaDezeoito .pai {
+  flex-wrap: wrap;
+}
+
+#praticaDezenove .pai {
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+#praticaVinte .pai {
+  flex-flow: column wrap;
+}
+
+#praticaVinteEUm .pai {
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+#praticaVinteEDois .pai {
+  flex-wrap: wrap;
+  align-content: flex-end;
+}
+
+#praticaVinteETres .pai {
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+  align-content: center;
+}
+
+#praticaVinteEQuatro .pai {
+  flex-flow: column-reverse wrap-reverse;
+  align-content: space-between;
+  justify-content: center;
+  align-items: center;
+}

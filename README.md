@@ -28,7 +28,7 @@ A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pont
 *fontes:*
 - [www.viajali.com.br - imagens e conteúdos](https://www.viajali.com.br/marco-zero-recife/)
 
-## Atividade 3
+## atividade 3
 Usando a mesma página criada na atividade anterior, criar duas novas páginas html com cada uma falando sobre outros pontos turísticos de Recife Antigo. As páginas devem contém um link que leva o usuário às demais páginas.
 *fontes:*
 - [www.viajali.com.br - imagens e conteúdos](https://www.viajali.com.br/recife-antigo/#:~:text=Recife%20antigo%3A%20o%20que%20fazer%201%201.%20Pra%C3%A7a,Olinda%20Andr%C3%A9%20Luiz%20Lopes%20Vieira%20...%20Mais%20itens)
@@ -56,3 +56,11 @@ Sobre o CSS:
 
 Fazer o html ficar semelhante ao da imagem seguindo as limitações propostas pelo tutor.
 ![Objetivo](./images/imagem.webp)
+
+## atividade 4
+
+Construir um estilo paras as três páginas implementados (da atividade 3).
+
+## atividade 5
+
+Brincar com o joguinho FLEXBOX FROGGY [link](https://flexboxfroggy.com/) e colocar seu código no vscode.
