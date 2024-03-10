@@ -7,13 +7,12 @@
 header {
   display: flex;
   justify-content: space-between;
-  background-color: aqua;
+  background-color: rgb(11, 1, 54);
 
   padding: 15px;
 }
 
 nav {
-  background-color: orange;
   width: 500px;
 }
 
@@ -29,6 +28,8 @@ nav ul {
 
 nav a {
   text-decoration: none;
+  color: white;
+  font-weight: bolder;
 }
 
 main {
