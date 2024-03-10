@@ -64,3 +64,7 @@ Construir um estilo paras as três páginas implementados (da atividade 3).
 ## atividade 5
 
 Brincar com o joguinho FLEXBOX FROGGY [link](https://flexboxfroggy.com/) e colocar seu código no vscode.
+
+## prática guiada 1
+
+Estilizar o html já criado pela plataforma, de acordo com o que pedido.
