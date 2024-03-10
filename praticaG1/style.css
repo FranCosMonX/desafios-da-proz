@@ -12,21 +12,41 @@ header {
   padding: 15px;
 }
 
-nav {
-  width: 500px;
+header .mobile {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
 }
 
-nav ul {
+header div .fa-solid,
+header div .fa-bars {
+  display: none;
+  color: white;
+  font-size: 40px;
+  text-align: right;
+
+  width: max-content;
+  padding: 10px;
+}
+
+header div .fa-solid:hover,
+header div .fa-bars:hover {
+  background-color: rgba(255, 255, 255, 0.137);
+  color: rgb(11, 1, 54);
+}
+
+header nav ul {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  gap: 40px;
 
   list-style: none;
   width: 100%;
   height: 100%;
 }
 
-nav a {
+header nav a {
   text-decoration: none;
   color: white;
   font-weight: bolder;
@@ -34,4 +54,34 @@ nav a {
 
 main {
   margin-top: 30px;
+}
+
+@media (max-width: 600px) {
+  header nav {
+    position: relative;
+    width: min-content;
+  }
+
+  header nav ul {
+    position: absolute;
+    display: none;
+    right: 0;
+    z-index: 2;
+    background-color: rgb(11, 1, 54);
+  }
+
+  header div .fa-solid,
+  header div .fa-bars {
+    display: block;
+  }
+
+
+  header nav:hover ul {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    height: max-content;
+    gap: 10px;
+    padding: 10px;
+  }
 }

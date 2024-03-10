@@ -67,4 +67,5 @@ Brincar com o joguinho FLEXBOX FROGGY [link](https://flexboxfroggy.com/) e coloc
 
 ## prática guiada 1
 
-Estilizar o html já criado pela plataforma, de acordo com o que pedido.
+Estilizar o html já criado pela plataforma, de acordo com o que foi pedido.
+- **Desafio:** - aplicar a responsividade.
