@@ -8,6 +8,8 @@ header {
   display: flex;
   justify-content: space-between;
   background-color: aqua;
+
+  padding: 15px;
 }
 
 nav {
@@ -18,4 +20,8 @@ nav {
 ul {
   display: flex;
   justify-content: space-around;
+}
+
+main {
+  margin-top: 30px;
 }
