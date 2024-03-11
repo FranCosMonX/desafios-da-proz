@@ -69,3 +69,19 @@ Brincar com o joguinho FLEXBOX FROGGY [link](https://flexboxfroggy.com/) e coloc
 
 Estilizar o html já criado pela plataforma, de acordo com o que foi pedido.
 - **Desafio:** - aplicar a responsividade.
+
+## desafio 4 
+Com HTML e CSS já fornecido, faça:
+- crie um arquivo .js
+- conecte esse arquivo ao html do projeto
+- crie uma variável para manipular a logo da página
+- crie outra variável para manipular os elementos com a classe "post-autor"
+
+Desafio: crie novas variáveis para manipular os seguintes elementos:
+
+- post 02
+- formulario
+- section com ambos os posts
+- datas dos posts
+- textos dos posts
+- listas com links das redes sociais
