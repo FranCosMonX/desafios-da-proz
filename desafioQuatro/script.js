@@ -21,3 +21,27 @@ console.log(texto_dos_posts)
 
 const lista_redes_sociais = document.getElementsByClassName("lista_redes")
 console.log(data_dos_posts)
+
+const testo_post_dois = document.querySelector("#post02 .post-texto")
+console.log(testo_post_dois)
+
+const lista_redes_do_footer = document.querySelector("footer .lista_redes")
+console.log(lista_redes_do_footer)
+
+const link_do_texto_post_um = document.querySelector("#post01 .post-texto a")
+console.log(link_do_texto_post_um)
+
+const pal_negrito_dentro_texto_post_dois = document.querySelector("#post02 .post-texto strong")
+console.log(pal_negrito_dentro_texto_post_dois.textContent)
+
+const input_nome_formulario = document.querySelector("#formulario #nome")
+console.log(input_nome_formulario)
+
+const links_redes_do_footer = document.querySelectorAll("footer .lista-redes a")
+console.log(links_redes_do_footer)
+
+const links_navegacao = document.querySelectorAll("header .elementos_nav a")
+console.log(links_navegacao)
+
+const autor_e_data = document.querySelectorAll(".post .post-autor strong,.post .post-data strong")
+console.log(autor_e_data[0].textContent)

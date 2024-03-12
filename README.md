@@ -76,6 +76,8 @@ Com HTML e CSS já fornecido, faça:
 - conecte esse arquivo ao html do projeto
 - crie uma variável para manipular a logo da página
 - crie outra variável para manipular os elementos com a classe "post-autor"
+- parágrafo contendo o texto do segundo post
+- lista de redes dentro do footer
 
 Desafio: crie novas variáveis para manipular os seguintes elementos:
 
@@ -85,3 +87,9 @@ Desafio: crie novas variáveis para manipular os seguintes elementos:
 - datas dos posts
 - textos dos posts
 - listas com links das redes sociais
+- O link dentro do texto do primeiro post
+- A palavra em negrito dentro do texto do segundo post
+- O input de nome do formulário
+- Os links da lista de redes no final da página
+- Os links da navegação (só os links, não os elementos de lista)
+- Os 4 "Autor:" e "Data:" em negrito nos dois posts'
