@@ -78,6 +78,7 @@ Com HTML e CSS já fornecido, faça:
 - crie outra variável para manipular os elementos com a classe "post-autor"
 - parágrafo contendo o texto do segundo post
 - lista de redes dentro do footer
+- Crie uma função que receba um NodeList e imprima no console a propriedade innerText de cada elemento
 
 Desafio: crie novas variáveis para manipular os seguintes elementos:
 
@@ -93,3 +94,4 @@ Desafio: crie novas variáveis para manipular os seguintes elementos:
 - Os links da lista de redes no final da página
 - Os links da navegação (só os links, não os elementos de lista)
 - Os 4 "Autor:" e "Data:" em negrito nos dois posts'
+- Como parte da execução da função, adicione uma frase que informe a quantidade de elementos da lista

@@ -44,4 +44,12 @@ const links_navegacao = document.querySelectorAll("header .elementos_nav a")
 console.log(links_navegacao)
 
 const autor_e_data = document.querySelectorAll(".post .post-autor strong,.post .post-data strong")
-console.log(autor_e_data[0].textContent)
+
+function imprimeTexto(e) {
+  console.log("A seguir será impresso " + e.length + " textos")
+  for (let i = 0; i < e.length; i++) {
+    console.log(e[i].innerText)
+  }
+}
+
+imprimeTexto(autor_e_data)
