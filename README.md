@@ -95,3 +95,13 @@ Desafio: crie novas variáveis para manipular os seguintes elementos:
 - Os links da navegação (só os links, não os elementos de lista)
 - Os 4 "Autor:" e "Data:" em negrito nos dois posts'
 - Como parte da execução da função, adicione uma frase que informe a quantidade de elementos da lista
+
+# desafio 5
+
+- crie um elemento article
+- recorte para esse elemento o conteúdo HTML do #post-1
+- adicione o elemento à tag main
+
+Desafio:
+
+adicione o id "post-2" ao elemento criado
