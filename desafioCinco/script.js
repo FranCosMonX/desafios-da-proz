@@ -20,6 +20,7 @@ const arrayPostagens = [
 ]
 
 const article = document.createElement("article")
+article.id = "post-2"
 article.innerHTML = `
   <h3>Pop Vegan</h3>
   <p class="subtitulo">Comida vegana para todos!</p>
