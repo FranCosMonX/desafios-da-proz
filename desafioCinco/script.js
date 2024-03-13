@@ -29,3 +29,13 @@ article.innerHTML = `
 
 const main = document.querySelector("main")
 main.appendChild(article)
+
+const seg_article = document.createElement("article")
+seg_article.innerHTML = `
+  <h3>${arrayPostagens[1].titulo}</h3>
+  <p class="subtitulo">${arrayPostagens[1].subtitulo}</p>
+  <div class="data">${arrayPostagens[1].data}</div>
+  <p>${arrayPostagens[1].texto}</p>
+`
+
+main.appendChild(seg_article)

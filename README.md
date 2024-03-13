@@ -101,7 +101,11 @@ Desafio: crie novas variáveis para manipular os seguintes elementos:
 - crie um elemento article
 - recorte para esse elemento o conteúdo HTML do #post-1
 - adicione o elemento à tag main
+- crie um novo elemento article
+- use template strings para substituir o titulo e subtitulo do conteúdo anterior pelos dados correspondentes no segundo item do arrayPostagens
+- adicione o elemento à tag main
 
 Desafio:
 
-adicione o id "post-2" ao elemento criado
+- adicione o id "post-2" ao elemento criado
+- substitua também os conteúdos de data e texto
