@@ -104,6 +104,7 @@ Desafio: crie novas variáveis para manipular os seguintes elementos:
 - crie um novo elemento article
 - use template strings para substituir o titulo e subtitulo do conteúdo anterior pelos dados correspondentes no segundo item do arrayPostagens
 - adicione o elemento à tag main
+- imprima todas as postagens de forma a não repetir código.
 
 Desafio:
 
