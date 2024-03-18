@@ -117,6 +117,12 @@ Desafio extra:
 - crie um arquivo script.js, com uma variável para manipular o elemento h2
 - altere a cor e o tamanho da fonte desse elemento usando a propriedade style
 
+Imaginando que alguém tenha digitado um nome de usuário inválido no formulário, faça o seguinte:
+
+- crie uma variável para manipular o input do nome de usuário
+- adicione a classe error a esse elemento
+- repetindo o exemplo das etapas anteriores, adicione a classe visible ao parágrafo da mensagem de erro
+
 Desafio extra:
 
 - seguindo o mesmo padrão, faça alterações na estilização do botão de envio do formulário
