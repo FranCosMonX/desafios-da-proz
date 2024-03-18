@@ -80,7 +80,7 @@ Com HTML e CSS já fornecido, faça:
 - lista de redes dentro do footer
 - Crie uma função que receba um NodeList e imprima no console a propriedade innerText de cada elemento
 
-Desafio: crie novas variáveis para manipular os seguintes elementos:
+Desafio extra: crie novas variáveis para manipular os seguintes elementos:
 
 - post 02
 - formulario
@@ -106,7 +106,17 @@ Desafio: crie novas variáveis para manipular os seguintes elementos:
 - adicione o elemento à tag main
 - imprima todas as postagens de forma a não repetir código.
 
-Desafio:
+Desafio extra:
 
 - adicione o id "post-2" ao elemento criado
 - substitua também os conteúdos de data e texto
+
+# desafio 6
+
+- remova as classes error, correct e visible dos elementos do formulário
+- crie um arquivo script.js, com uma variável para manipular o elemento h2
+- altere a cor e o tamanho da fonte desse elemento usando a propriedade style
+
+Desafio extra:
+
+- seguindo o mesmo padrão, faça alterações na estilização do botão de envio do formulário
