@@ -123,6 +123,12 @@ Imaginando que alguém tenha digitado um nome de usuário inválido no formulár
 - adicione a classe error a esse elemento
 - repetindo o exemplo das etapas anteriores, adicione a classe visible ao parágrafo da mensagem de erro
 
+Imagine que o mesmo visitante da prática anterior tenha corrigido o nome de usuário, porém preenchido a senha incorretamente:
+
+- remova a classe error do input de usernamen, adicionando em seguida a classe correct
+- remova a classe visible do elemento da mensagem de erro
+- seguindo o mesmo padrão, faça as mudanças de estilização apropriadas no campo da senha
+
 Desafio extra:
 
 - seguindo o mesmo padrão, faça alterações na estilização do botão de envio do formulário
