@@ -132,3 +132,6 @@ Imagine que o mesmo visitante da prática anterior tenha corrigido o nome de usu
 Desafio extra:
 
 - seguindo o mesmo padrão, faça alterações na estilização do botão de envio do formulário
+
+# desafio 7
+-  Refatore o código, movendo as linhas 9 e 10 para uma função que atualiza a página com os valores da variável subtotalInfo
