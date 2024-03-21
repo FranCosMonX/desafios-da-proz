@@ -135,3 +135,9 @@ Desafio extra:
 
 # desafio 7
 -  Refatore o código, movendo as linhas 9 e 10 para uma função que atualiza a página com os valores da variável subtotalInfo
+- crie variáveis para manipular o botão de adicionar e o input da quantidade do produto
+- faça com que a função de atualizar a página atualize também o valor do input
+- crie uma função para incrementar a quantidade do produto no carrinho. Ela deve atualizar os valores da variável subtotalInfo e, em seguida, atualizar a página para que ela exiba os novos valores
+use a função addEventListener para que a função seja chamada no clique do botão
+
+Desafio extra: faça com que o subtotal seja sempre exibido com duas casas decimais
