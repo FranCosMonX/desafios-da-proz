@@ -12,20 +12,20 @@ let subtotalInfo = {
 
 function incrementar() {
   subtotalInfo.quantidade += 1;
-  subtotalInfo.valor = (valor_produto * subtotalInfo.quantidade).toFixed(2);
+  subtotalInfo.valor = valor_produto * subtotalInfo.quantidade;
   atualizarPagina();
 }
 
 function decrementar() {
   if (subtotalInfo.quantidade <= 0) return;
   subtotalInfo.quantidade -= 1;
-  subtotalInfo.valor = (valor_produto * subtotalInfo.quantidade).toFixed(2);
+  subtotalInfo.valor = valor_produto * subtotalInfo.quantidade;
   atualizarPagina();
 }
 
 function atualizarPagina() {
   quantidadeSubtotal.innerText = subtotalInfo.quantidade + " item(ns)";
-  valorSubtotal.innerText = subtotalInfo.valor;
+  valorSubtotal.innerText = subtotalInfo.valor.toFixed(2);
   input_Quantidade_produto.value = subtotalInfo.quantidade;
 }
 
