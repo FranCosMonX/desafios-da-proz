@@ -142,3 +142,17 @@ use a função addEventListener para que a função seja chamada no clique do bo
 - implementar a logica do btn decrementar.
 
 Desafio extra: faça com que o subtotal seja sempre exibido com duas casas decimais
+
+# desafio 8
+
+- chame a função window.addEventListener, passando o evento 'keyup' como primeiro argumento, e uma arrow function como segundo argumento
+
+- atribua um parâmetro evento à arrow function, e imprima no terminal o valor desse parâmetro
+
+- use uma estrutura condicional para imprimir uma mensagem quando a tecla pressionada tem o valor "1" para a propriedade key
+
+- dentro do bloco condicional, aplique agora o display block ao elemento navPerfil usando a propriedade style
+
+Desafio extra: 
+
+- ocultar a barra de navegação secundária usando a tecla "0"
