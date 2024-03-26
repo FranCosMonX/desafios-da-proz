@@ -155,3 +155,4 @@ Desafio extra: faça com que o subtotal seja sempre exibido com duas casas decim
 Desafio extra: 
 
 - ocultar a barra de navegação secundária usando a tecla "0"
+- retornar para a página principal apertando "Backspace"
