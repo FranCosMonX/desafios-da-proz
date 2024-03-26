@@ -146,12 +146,11 @@ Desafio extra: faça com que o subtotal seja sempre exibido com duas casas decim
 # desafio 8
 
 - chame a função window.addEventListener, passando o evento 'keyup' como primeiro argumento, e uma arrow function como segundo argumento
-
 - atribua um parâmetro evento à arrow function, e imprima no terminal o valor desse parâmetro
-
 - use uma estrutura condicional para imprimir uma mensagem quando a tecla pressionada tem o valor "1" para a propriedade key
-
 - dentro do bloco condicional, aplique agora o display block ao elemento navPerfil usando a propriedade style
+- eclare uma variável para guardar o elemento <a> com id link-perfil-dados
+- escreva uma segunda estrutura condicional dentro da anterior, que também verifique se o display da navegação secundária é block. Use do método click( ), nativo do JavaScript, para clicar no elemento
 
 Desafio extra: 
 
