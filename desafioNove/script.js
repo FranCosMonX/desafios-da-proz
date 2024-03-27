@@ -16,3 +16,20 @@ const ocultarPopup = () => {
 usernameInput.addEventListener("blur", ocultarPopup)
 
 // Validar valor do input
+function validarUsername(e) {
+  const tamanho = e.target.value;
+  console.log(e)
+
+  if (tamanho.length < 3) {
+    usernameInput.classList.remove("correct")
+    usernameInput.classList.add("error")
+    usernameHelper.innerText = "minimo 3 caracteres"
+    usernameHelper.classList.add("visible")
+  } else {
+    usernameInput.classList.add("error")
+    usernameInput.classList.add("correct")
+    usernameHelper.innerText = "minimo 3 caracteres"
+    usernameHelper.classList.remove("visible")
+  }
+}
+usernameInput.addEventListener("change", validarUsername)

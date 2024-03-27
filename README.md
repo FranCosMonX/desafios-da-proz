@@ -162,3 +162,8 @@ Desafio extra:
 - Apague as classes dos estilos dinâmicos do arquivo HTML (correct, error, visible e required-popup)
 - adicione um eventListener ao usernameInput, passando como primeiro argumento o evento "focus" e como segundo argumento uma função que adicione a classe required-popup ao usenameLabel
 - adicione outro eventListener ao mesmo elemento, dessa vez com o evento "blur" e removendo a classe "required-popup"
+
+adicione um eventListener ao usernameInput, passando como primeiro argumento o evento "change" e como segundo argumento uma função com um parâmetro "evento". Essa função deve:
+- imprimir no console o valor da propriedade evento.target.value
+- verificar o valor do input possui no mínimo 3 caracteres, imprimindo mensagens diferentes para cada caso
+- adicionar ou remover as classes dinâmicas apropriadas nos elementos usernameInput e usernameHelper
