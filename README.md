@@ -156,3 +156,9 @@ Desafio extra:
 
 - ocultar a barra de navegação secundária usando a tecla "0"
 - retornar para a página principal apertando "Backspace"
+
+# desafio 9
+
+- Apague as classes dos estilos dinâmicos do arquivo HTML (correct, error, visible e required-popup)
+- adicione um eventListener ao usernameInput, passando como primeiro argumento o evento "focus" e como segundo argumento uma função que adicione a classe required-popup ao usenameLabel
+- adicione outro eventListener ao mesmo elemento, dessa vez com o evento "blur" e removendo a classe "required-popup"
