@@ -167,3 +167,8 @@ adicione um eventListener ao usernameInput, passando como primeiro argumento o e
 - imprimir no console o valor da propriedade evento.target.value
 - verificar o valor do input possui no mínimo 3 caracteres, imprimindo mensagens diferentes para cada caso
 - adicionar ou remover as classes dinâmicas apropriadas nos elementos usernameInput e usernameHelper
+
+- crie variáveis para manipular os elementos label, input e .helper-text do campo email
+- adicione listeners para os eventos de focus, blur e change do input de email. O endereço de email será considerado válido se contiver @ e .com
+
+Desafio extra: refatore as funções de exibir/ocultar o popup para que elas possam ser reaproveitadas para o input de email
