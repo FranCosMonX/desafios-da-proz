@@ -33,9 +33,8 @@ function validarUsername(e) {
     usernameHelper.innerText = "minimo 3 caracteres"
     usernameHelper.classList.add("visible")
   } else {
-    usernameInput.classList.add("error")
+    usernameInput.classList.remove("error")
     usernameInput.classList.add("correct")
-    usernameHelper.innerText = "minimo 3 caracteres"
     usernameHelper.classList.remove("visible")
   }
 }
@@ -43,10 +42,15 @@ function validarUsername(e) {
 function validarEmail(e) {
   const string = e.target.value
 
-  if (string.includes('[a-zA-Z.]*[@gmail.com]')) {
-    console.log("funfo")
+  if (string.includes('@') && string.includes(".com") && string.length > 4) {
+    emailInput.classList.remove("error")
+    emailInput.classList.add("correct")
+    emailHelper.classList.remove("visible")
   } else {
-    console.log("nao funfo")
+    emailInput.classList.remove("correct")
+    emailInput.classList.add("error")
+    emailHelper.innerText = "Deve ser um email"
+    emailHelper.classList.add("visible")
   }
 }
 
