@@ -172,3 +172,17 @@ adicione um eventListener ao usernameInput, passando como primeiro argumento o e
 - adicione listeners para os eventos de focus, blur e change do input de email. O endereço de email será considerado válido se contiver @ e .com
 
 Desafio extra: refatore as funções de exibir/ocultar o popup para que elas possam ser reaproveitadas para o input de email
+
+## Conceitos
+
+### Banco de Dados
+
+* Normalização:
+  - 1ª forma normal: Ter um valor atômico em cada tabela e não aceitar uma lista de valores em uma mesma tabela.
+  **Problema**
+  ![Tabela que contém dados do aluno e dados do tutor.](./images/problema1FN.png)
+
+  **Solução**
+  ![Tabela apenas com os dados do aluno](./images/aluno1FN.png)
+  ![Tabela apenas com os dados do tutor](./images/tutor1FN.png)
+  ![Tabela apenas com as chaves de ambas as tabelas anteriores para interligar os valores entre elas](./images/relacao-aluno-tutor1FN.png)
