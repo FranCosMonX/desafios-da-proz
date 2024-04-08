@@ -183,6 +183,8 @@ Desafio extra: refatore as funções de exibir/ocultar o popup para que elas pos
   ![Tabela que contém dados do aluno e dados do tutor.](./images/problema1FN.png)
 
   **Solução**
+
   ![Tabela apenas com os dados do aluno](./images/aluno1FN.png)
+  
   ![Tabela apenas com os dados do tutor](./images/tutor1FN.png)
   ![Tabela apenas com as chaves de ambas as tabelas anteriores para interligar os valores entre elas](./images/relacao-aluno-tutor1FN.png)
