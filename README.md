@@ -179,12 +179,5 @@ Desafio extra: refatore as funções de exibir/ocultar o popup para que elas pos
 
 * Normalização:
   - 1ª forma normal: Ter um valor atômico em cada tabela e não aceitar uma lista de valores em uma mesma tabela.
-  **Problema**
-  ![Tabela que contém dados do aluno e dados do tutor.](./images/problema1FN.png)
-
-  **Solução**
-
-  ![Tabela apenas com os dados do aluno](./images/aluno1FN.png)
-  
-  ![Tabela apenas com os dados do tutor](./images/tutor1FN.png)
-  ![Tabela apenas com as chaves de ambas as tabelas anteriores para interligar os valores entre elas](./images/relacao-aluno-tutor1FN.png)
+  - 2ª forma normal: serve para que cada coluna se relacione diretamente com sua chave primária e não dependa de outra coluna.
+  - 3ª forma normal: não pode haver dados que dependem de chaves diferentes em uma mesma tabela (chave primaria e chave estrangeira). Mas é essencial que já esteja cumprindo as normas 1 e 2.
