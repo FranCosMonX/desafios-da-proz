@@ -183,3 +183,5 @@ Desafio extra: refatore as funções de exibir/ocultar o popup para que elas pos
   - 3ª forma normal: não pode haver dados que dependem de chaves diferentes em uma mesma tabela (chave primaria e chave estrangeira). Mas é essencial que já esteja cumprindo as normas 1 e 2.
 
 * Ferramenta para aprimorar os estudos com algebra relacional e SQL: [Relax](https://dbis-uibk.github.io/relax/calc/gist/41cf5ce652756d9331eec7562644e074/imdbsample/0)
+
+* Ferramenta para aprimorar os estudos com SQL usando alguns BDs, como PostgreeSQL, MariaDB, SQLite e MS SQL: [sqliteonline.com](https://sqliteonline.com/)
