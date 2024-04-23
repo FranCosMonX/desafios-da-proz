@@ -165,6 +165,10 @@ Crie um projeto com dois arquivos: index.html e script.js. No arquivo 'index' in
 
 No arquivo script.js capture os quatro elementos criados, e use a propriedade .innerText para adicionar conteúdo textual aos elementos 'h1' e 'a', e a propriedade .innerHTML para adicionar três itens simples na lista não ordenada, e três itens com links para outros sites na lista ordenada.  
 
+# atividade 9
+
+Acesse o site [OneCompiler](https://onecompiler.com/) e crie uma função que recebe dois números como parâmetros e imprime quatro frases no terminal (a partir de template strings) demonstrando as quatro operações básicas aplicadas a ambos números. Exemplo: 4 + 5 = 9; 4 - 5 = -1; 4 x 5 = 20; 4 / 5 = 0.8.
+
 # desafio 8
 
 - chame a função window.addEventListener, passando o evento 'keyup' como primeiro argumento, e uma arrow function como segundo argumento
