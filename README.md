@@ -231,3 +231,7 @@ Fazer consultas no Banco de Dados em tabelas que possuam chave estrangeira e cha
 - em cada tabela, adicione atributos;
 - insira dados em cada tabela;
 - utilize comandos Joins para realizar consultas nas tabelas.
+
+# atividade 13
+
+Fazer o mesmo processo de criação e preenchimento de dados, como feito na atividade anterior, a fim de construir um trigger e usá-lo para realizar alguma ação. O Banco de Dados a ser usado, assim como na atividade anterior, será aquele que foi construído na atividade 11. Foi visto a criação de Trigger com a sintaxe dos SGBDs MySQL e SQLite.
