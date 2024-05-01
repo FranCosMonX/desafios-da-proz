@@ -217,3 +217,7 @@ Desafio extra: refatore as funções de exibir/ocultar o popup para que elas pos
 * Ferramenta para aprimorar os estudos com algebra relacional e SQL: [Relax](https://dbis-uibk.github.io/relax/calc/gist/41cf5ce652756d9331eec7562644e074/imdbsample/0)
 
 * Ferramenta para aprimorar os estudos com SQL usando alguns BDs, como PostgreeSQL, MariaDB, SQLite e MS SQL: [sqliteonline.com](https://sqliteonline.com/)
+
+# atividade 11
+
+Construir tabelas no Banco de Dados Relacional. Foi visto, em aulas a sintase de dois SGBDs: SQLite e PostgreeSQL usando DDL para criação e edição da estrutura do Banco de Dados e DML para modificar dados contidos no Banco de dados.
