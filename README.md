@@ -221,3 +221,13 @@ Desafio extra: refatore as funções de exibir/ocultar o popup para que elas pos
 # atividade 11
 
 Construir tabelas no Banco de Dados Relacional. Foi visto, em aulas a sintase de dois SGBDs: SQLite e PostgreeSQL usando DDL para criação e edição da estrutura do Banco de Dados e DML para modificar dados contidos no Banco de dados.
+
+# atividade 12
+
+Fazer consultas no Banco de Dados em tabelas que possuam chave estrangeira e chave primaria. Em resumo foi feito em dois cenários: relacionamento de (1,n) e (m,n). É recomendado que siga os seguintes pontos, mas as consultas estão sendo feitas levando em consideração o Banco de Dados construído na atividade anterior:
+
+- crie uma base de dados;
+- crie tabelas nessa base de dados;
+- em cada tabela, adicione atributos;
+- insira dados em cada tabela;
+- utilize comandos Joins para realizar consultas nas tabelas.
