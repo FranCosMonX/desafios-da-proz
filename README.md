@@ -235,3 +235,8 @@ Fazer consultas no Banco de Dados em tabelas que possuam chave estrangeira e cha
 # atividade 13
 
 Fazer o mesmo processo de criação e preenchimento de dados, como feito na atividade anterior, a fim de construir um trigger e usá-lo para realizar alguma ação. O Banco de Dados a ser usado, assim como na atividade anterior, será aquele que foi construído na atividade 11. Foi visto a criação de Trigger com a sintaxe dos SGBDs MySQL e SQLite.
+
+# atividade 14
+
+Uma empresa de vendas tem um banco de dados com informações sobre os seus produtos. Ela precisa criar um relatório que faça um levantamento diário da quantidade de produtos comprados por dia. Para ajudar a empresa, crie um `procedure` para agilizar esse processo.
+* Atividade respondida usando a sintaxe do MariaDB.
