@@ -240,3 +240,7 @@ Fazer o mesmo processo de criação e preenchimento de dados, como feito na ativ
 
 Uma empresa de vendas tem um banco de dados com informações sobre os seus produtos. Ela precisa criar um relatório que faça um levantamento diário da quantidade de produtos comprados por dia. Para ajudar a empresa, crie um `procedure` para agilizar esse processo.
 * Atividade respondida usando a sintaxe do MariaDB.
+
+# Atividade 15
+
+Criar uma função para somar todos os clientes que foram cadastrados na loja durante um dia na loja que possui o BD para fazer o controle de vendas de produtos e de cadastros de cliente. Como desafio, foi implementado uma função para somar a quantidade de produtos vendidos e valor arrecadado durante o mesmo dia, elvando em consideração um exemplo simples envolvendo as seguintes tabelas: cliente, produto e vendas.
